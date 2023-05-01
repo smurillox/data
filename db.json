@@ -1,24 +1,20 @@
 {
-  "data": [
+  "colors": [
     {
-      "id": "L-000011111-001A001",
-      "chemblid": "CHEMBL582",
-      "name": "isopropyl alcohol"
+      "id": 1,
+      "name": "red"
     },
     {
-      "id": "L-000054321-001B001",
-      "chemblid": "CHEMBL135416",
-      "name": "propane"
+      "id": 2,
+      "name": "blue"
     },
     {
-      "id": "L-000012345-001C001",
-      "chemblid": "CHEMBL277500",
-      "name": "benzene"
+      "id": 3,
+      "name": "green"
     },
     {
-      "id": "L-000091475-001D001",
-      "chemblid": "A sample from DLC with L-000091475-001D001",
-      "name": "Wild Rabbit ;-)"
+      "id": 4,
+      "name": "yellow"
     }
   ],
   "paging": {
