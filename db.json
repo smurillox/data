@@ -1,23 +1,5 @@
 {
-  "colors_myid": [
-    {
-      "myid": 1,
-      "name": "red"
-    },
-    {
-      "myid": 2,
-      "name": "blue"
-    },
-    {
-      "myid": 3,
-      "name": "green"
-    },
-    {
-      "myid": 4,
-      "name": "yellow"
-    }
-  ],
-  "colors_id": [
+  "colors": [
     {
       "id": 1,
       "name": "red"
@@ -34,5 +16,8 @@
       "id": 4,
       "name": "yellow"
     }
-  ]
+  ],
+  "paging": {
+    "total": 4
+  }
 }
