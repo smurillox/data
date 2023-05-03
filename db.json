@@ -1,27 +1,39 @@
 {
-  "data": [
-    {
-      "myid": "L-000011111-001A001",
-      "chemblid": "CHEMBL582",
-      "name": "isopropyl alcohol"
-    },
-    {
-      "myid": "L-000054321-001B001",
-      "chemblid": "CHEMBL135416",
-      "name": "propane"
-    },
-    {
-      "myid": "L-000012345-001C001",
-      "chemblid": "CHEMBL277500",
-      "name": "benzene"
-    },
-    {
-      "myid": "L-000091475-001D001",
-      "chemblid": "A sample from DLC with L-000091475-001D001",
-      "name": "Wild Rabbit ;-)"
-    }
-  ],
-  "paging": {
-    "total": 4
-  }
+	"colors_myid": [
+		{
+			"myid": 1,
+			"name": "red"
+		},
+		{
+			"myid": 2,
+			"name": "blue"
+		},
+		{
+			"myid": 3,
+			"name": "green"
+		},
+		{
+			"myid": 4,
+			"name": "yellow"
+		}
+	],
+	"colors_id": [
+		{
+			"id": 1,
+			"name": "red"
+		},
+		{
+			"id": 2,
+			"name": "blue"
+		},
+		{
+			"id": 3,
+			"name": "green"
+		},
+		{
+			"id": 4,
+			"name": "yellow"
+		}
+	]
+
 }
