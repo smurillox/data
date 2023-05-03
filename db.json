@@ -1,14 +1,30 @@
 {
-	"merck": [
+	"L-000011111-001A001": [
 		{
-			"merckid": "L-000011111-001A001",
+			"id": "L-000011111-001A001",
 			"chemblid": "CHEMBL582",
 			"name": "isopropyl alcohol"
-		},
+		}
+	],
+	"L-000054321-001B001": [
 		{
-			"merckid": "L-000054321-001B001",
+			"id": "L-000054321-001B001",
 			"chemblid": "CHEMBL135416",
 			"name": "propane"
+		}
+	],
+	"L-000012345-001C001": [
+		{
+			"id": "L-000012345-001C001",
+			"chemblid": "CHEMBL277500",
+			"name": "benzene"
+		}
+	],
+	"L-000091475-001D001": [
+		{
+			"id": "L-000091475-001D001",
+			"chemblid": "A sample from DLC with L-000091475-001D001",
+			"name": "Wild Rabbit ;-)"
 		}
 	]
 }
