@@ -1,22 +1,22 @@
 {
   "data": [
     {
-      "id": "L-000011111-001A001",
+      "myid": "L-000011111-001A001",
       "chemblid": "CHEMBL582",
       "name": "isopropyl alcohol"
     },
     {
-      "id": "L-000054321-001B001",
+      "myid": "L-000054321-001B001",
       "chemblid": "CHEMBL135416",
       "name": "propane"
     },
     {
-      "id": "L-000012345-001C001",
+      "myid": "L-000012345-001C001",
       "chemblid": "CHEMBL277500",
       "name": "benzene"
     },
     {
-      "id": "L-000091475-001D001",
+      "myid": "L-000091475-001D001",
       "chemblid": "A sample from DLC with L-000091475-001D001",
       "name": "Wild Rabbit ;-)"
     }
