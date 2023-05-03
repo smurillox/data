@@ -1,14 +1,14 @@
-{ 
-    "merck": [
-        {
-            "merckid": "L-000011111-001A001",
-            "chemblid": "CHEMBL582",
-            "name": "isopropyl alcohol"
-        },
-        {
-            "merckid": "L-000054321-001B001",
-            "chemblid": "CHEMBL135416",
-            "name": "propane"
-        }
-    ]
-} 
+{
+	"merck": [
+		{
+			"merckid": "L-000011111-001A001",
+			"chemblid": "CHEMBL582",
+			"name": "isopropyl alcohol"
+		},
+		{
+			"merckid": "L-000054321-001B001",
+			"chemblid": "CHEMBL135416",
+			"name": "propane"
+		}
+	]
+}
