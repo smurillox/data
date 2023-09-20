@@ -4,135 +4,125 @@
         "Unstable explosives": "Explosive; mass explosion hazard",
         "Explosives": "Explosives",
         "Unstable Explosive": "Div 1.1",
-        "Danger": "Danger",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P230, P240, P250, P280, P370+P380, P372, P373, P401, P501"
+        "Danger": "Danger"
     },
     {
         "H200": "H202",
         "Unstable explosives": "Explosive, severe projection hazard",
         "Explosives": "Explosives",
         "Unstable Explosive": "Div 1.2",
-        "Danger": "Danger",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P230, P240, P250, P280, P370+P380, P372, P373, P401, P501"
+        "Danger": "Danger"
     },
     {
         "H200": "H203",
         "Unstable explosives": "Explosive; fire, blast or projection hazard",
         "Explosives": "Explosives",
         "Unstable Explosive": "Div 1.3",
-        "Danger": "Danger",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P230, P240, P250, P280, P370+P380, P372, P373, P401, P501"
+        "Danger": "Danger"
     },
     {
         "H200": "H204",
         "Unstable explosives": "Fire or projection hazard",
         "Explosives": "Explosives",
         "Unstable Explosive": "Div 1.4",
-        "Danger": "Warning",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P240, P250, P280, P370+P380, P372, P373, P374, P401, P501"
+        "Danger": "Warning"
     },
     {
         "H200": "H205",
         "Unstable explosives": "May mass explode in fire",
         "Explosives": "Explosives",
         "Unstable Explosive": "Div 1.5",
-        "Danger": "Danger",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P230, P240, P250, P280, P370+P380, P372, P373, P401, P501"
+        "Danger": "Danger"
     },
     {
         "H200": "H220",
         "Unstable explosives": "Extremely flammable gas",
         "Explosives": " (chapter 22)",
         "Unstable Explosive": "Cat 1",
-        "Danger": "Danger",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P377, P381, P403"
+        "Danger": "Danger"
     },
     {
         "H200": "H221",
         "Unstable explosives": "Flammable gas",
         "Explosives": "Flammable gases",
         "Unstable Explosive": "Cat 2",
-        "Danger": "Warning",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P377, P381, P403"
+        "Danger": "Warning"
     },
     {
         "H200": "H222",
         "Unstable explosives": "Extremely flammable aerosol",
         "Explosives": "Flammable aerosols",
         "Unstable Explosive": "Cat 1",
-        "Danger": "Danger",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P211, P251, P410+P412"
+        "Danger": "Danger"
     },
     {
         "H200": "H223",
         "Unstable explosives": "Flammable aerosol",
         "Explosives": "Flammable aerosols",
         "Unstable Explosive": "Cat 2",
-        "Danger": "Warning",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P211, P251, P410+P412"
+        "Danger": "Warning"
     },
     {
         "H200": "H224",
         "Unstable explosives": "Extremely flammable liquid and vapour",
         "Explosives": "Flammable liquids",
         "Unstable Explosive": "Cat 1",
-        "Danger": "Danger",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210,P233, P240, P241, P242, P243, P280, P303+ P361+P353, P370+P378, P403+P235, P501"
+        "Danger": "Danger"
     },
     {
         "H200": "H225",
         "Unstable explosives": "Highly flammable liquid and vapour",
         "Explosives": "Flammable liquids",
         "Unstable Explosive": "Cat 2",
-        "Danger": "Danger",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210,P233, P240, P241, P242, P243, P280, P303+ P361+P353, P370+P378, P403+P235, P501"
+        "Danger": "Danger"
     },
     {
         "H200": "H226",
         "Unstable explosives": "Flammable liquid and vapour",
         "Explosives": "Flammable liquids",
         "Unstable Explosive": "Cat 3",
-        "Danger": "Warning",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210,P233, P240, P241, P242, P243, P280, P303+ P361+P353, P370+P378, P403+P235, P501"
+        "Danger": "Warning"
     },
     {
         "H200": "H227",
         "Unstable explosives": "Combustible liquid",
         "Explosives": "Flammable liquids",
         "Unstable Explosive": "Cat 4",
-        "Danger": "Warning",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P280, P370+P378, P403+P235, P501"
+        "Danger": "Warning"
     },
     {
         "H200": "H228",
         "Unstable explosives": "Flammable solid",
         "Explosives": "Flammable solids",
         "Unstable Explosive": "Cat 1,2",
-        "Danger": "Danger, Warning",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P240,P241, P280, P370+P378"
+        "Danger": "Danger, Warning"
     },
     {
         "H200": "H240",
         "Unstable explosives": "Heating may cause an explosion",
         "Explosives": "Self-reactive substances and mixtures; and Organic peroxides",
         "Unstable Explosive": "Type A",
-        "Danger": "Danger",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P220, P234, P280, P370+ P378, P370+P380+P375, P403+P235, P411, P420, P501"
+        "Danger": "Danger"
     },
     {
         "H200": "H241",
         "Unstable explosives": "Heating may cause a fire or explosion",
         "Explosives": "Self-reactive substances and mixtures; and Organic peroxides",
         "Unstable Explosive": "Type B",
-        "Danger": "Danger",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P220, P234, P280, P370+P378, P370+ P380+P375, P403+P235, P411, P420, P501"
+        "Danger": "Danger"
     },
     {
         "H200": "H242",
         "Unstable explosives": "Heating may cause a fire",
         "Explosives": "Self-reactive substances and mixtures; and Organic peroxides",
         "Unstable Explosive": "Type C,D,E,F,G",
-        "Danger": "Danger, Warning",
-        "P201, P202, P281, P372, P373, P380, P401, P501": "P210, P220, P234, P280, P370+P378, P403+P235, P411, P420, P501"
+        "Danger": "Danger, Warning"
+    },
+    {
+        "H200": "H250",
+        "Unstable explosives": "Catches fire spontaneously if exposed to air",
+        "Explosives": "Pyrophoric liquids; Pyrorophoric solids",
+        "Unstable Explosive": "Cat 1",
+        "Danger": "Danger"
     }
 ]
