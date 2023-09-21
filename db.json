@@ -1,29 +1,34 @@
 {
    "H200": {
+      "Code": "H200",
       "Hazard Statements": "Unstable explosives",
       "Hazard Class": "Explosives",
       "Category": "Unstable Explosive",
       "Signal Word": "Danger"
    },
    "H201": {
+      "Code": "H201",
       "Hazard Statements": "Explosive; mass explosion hazard",
       "Hazard Class": "Explosives",
       "Category": "Div 1.1",
       "Signal Word": "Danger"
    },
    "H202": {
+      "Code": "H202",
       "Hazard Statements": "Explosive, severe projection hazard",
       "Hazard Class": "Explosives",
       "Category": "Div 1.2",
       "Signal Word": "Danger"
    },
    "H203": {
+      "Code": "H203",
       "Hazard Statements": "Explosive; fire, blast or projection hazard",
       "Hazard Class": "Explosives",
       "Category": "Div 1.3",
       "Signal Word": "Danger"
    },
    "H204": {
+      "Code": "H204",
       "Hazard Statements": "Fire or projection hazard",
       "Hazard Class": "Explosives",
       "Category": "Div 1.4",
