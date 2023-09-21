@@ -1,22 +1,56 @@
-[
-    {
-        "Code": "H200",
-        "Hazard Statements": "Unstable explosives",
-        "Hazard Class": "Explosives"
-    },
-    {
-        "Code": "H201",
-        "Hazard Statements": "Explosive; mass explosion hazard",
-        "Hazard Class": "Explosives"
-    },
-    {
-        "Code": "H202",
-        "Hazard Statements": "Explosive, severe projection hazard",
-        "Hazard Class": "Explosives"
-    },
-    {
-        "Code": "H203",
-        "Hazard Statements": "Explosive; fire, blast or projection hazard",
-        "Hazard Class": "Explosives"
-    }
-]
+{
+   "H200": {
+      "Hazard Statements": "Unstable explosives",
+      "Hazard Class": "Explosives",
+      "Category": "Unstable Explosive",
+      "Signal Word": "Danger"
+   },
+   "H201": {
+      "Hazard Statements": "Explosive; mass explosion hazard",
+      "Hazard Class": "Explosives",
+      "Category": "Div 1.1",
+      "Signal Word": "Danger"
+   },
+   "H202": {
+      "Hazard Statements": "Explosive, severe projection hazard",
+      "Hazard Class": "Explosives",
+      "Category": "Div 1.2",
+      "Signal Word": "Danger"
+   },
+   "H203": {
+      "Hazard Statements": "Explosive; fire, blast or projection hazard",
+      "Hazard Class": "Explosives",
+      "Category": "Div 1.3",
+      "Signal Word": "Danger"
+   },
+   "H204": {
+      "Hazard Statements": "Fire or projection hazard",
+      "Hazard Class": "Explosives",
+      "Category": "Div 1.4",
+      "Signal Word": "Warning"
+   },
+   "H205": {
+      "Hazard Statements": "May mass explode in fire",
+      "Hazard Class": "Explosives",
+      "Category": "Div 1.5",
+      "Signal Word": "Danger"
+   },
+   "H220": {
+      "Hazard Statements": "Extremely flammable gas",
+      "Hazard Class": " (chapter 22)",
+      "Category": "Cat 1",
+      "Signal Word": "Danger"
+   },
+   "H221": {
+      "Hazard Statements": "Flammable gas",
+      "Hazard Class": "Flammable gases",
+      "Category": "Cat 2",
+      "Signal Word": "Warning"
+   },
+   "H222": {
+      "Hazard Statements": "Extremely flammable aerosol",
+      "Hazard Class": "Flammable aerosols",
+      "Category": "Cat 1",
+      "Signal Word": "Danger"
+   }
+}
