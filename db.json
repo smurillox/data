@@ -28,29 +28,5 @@
       "Hazard Class": "Explosives",
       "Category": "Div 1.4",
       "Signal Word": "Warning"
-   },
-   "H205": {
-      "Hazard Statements": "May mass explode in fire",
-      "Hazard Class": "Explosives",
-      "Category": "Div 1.5",
-      "Signal Word": "Danger"
-   },
-   "H220": {
-      "Hazard Statements": "Extremely flammable gas",
-      "Hazard Class": " (chapter 22)",
-      "Category": "Cat 1",
-      "Signal Word": "Danger"
-   },
-   "H221": {
-      "Hazard Statements": "Flammable gas",
-      "Hazard Class": "Flammable gases",
-      "Category": "Cat 2",
-      "Signal Word": "Warning"
-   },
-   "H222": {
-      "Hazard Statements": "Extremely flammable aerosol",
-      "Hazard Class": "Flammable aerosols",
-      "Category": "Cat 1",
-      "Signal Word": "Danger"
    }
 }
