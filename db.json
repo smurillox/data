@@ -18,30 +18,5 @@
         "Code": "H203",
         "Hazard Statements": "Explosive; fire, blast or projection hazard",
         "Hazard Class": "Explosives"
-    },
-    {
-        "Code": "H204",
-        "Hazard Statements": "Fire or projection hazard",
-        "Hazard Class": "Explosives"
-    },
-    {
-        "Code": "H205",
-        "Hazard Statements": "May mass explode in fire",
-        "Hazard Class": "Explosives"
-    },
-    {
-        "Code": "H220",
-        "Hazard Statements": "Extremely flammable gas",
-        "Hazard Class": " (chapter 22)"
-    },
-    {
-        "Code": "H221",
-        "Hazard Statements": "Flammable gas",
-        "Hazard Class": "Flammable gases"
-    },
-    {
-        "Code": "H222",
-        "Hazard Statements": "Extremely flammable aerosol",
-        "Hazard Class": "Flammable aerosols"
     }
 ]
